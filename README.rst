@@ -31,8 +31,9 @@ eyespi
      :alt: Updates
 
 
-
 Locates SPIs in sequence data
+
+The `python` script is run `presence-cut.py -i <inputfile> -c <matchfile> -x <identity> -m <match_length> -o <outputfile>`
 
 
 * Free software: MIT license
@@ -44,10 +45,3 @@ Features
 
 * TODO
 
-Credits
--------
-
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
